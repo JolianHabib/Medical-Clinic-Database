@@ -16,7 +16,7 @@ ClinicalMedicalTableAndData.sql   → Full database schema + table creation + al
 ClincalMedicalQueries.sql         → Analytical and reporting SQL queries + trigger tests.
 
 ## Entity–Relationship Diagram (ERD)
-![ERD Diagram](ERD.png)
+![ERD Diagram](https://github.com/JolianHabib/Medical-Clinic-Database/blob/main/ClinicalMedicalSystem.drawio.png?raw=true)
 
 Key relationships include:
 - Each patient can have multiple appointments.
